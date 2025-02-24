@@ -1,1 +1,5 @@
-
+title: Choco
+#logo
+description: Student / Gamer
+#show_downloads: true
+theme : jekyll-theme-minimal
